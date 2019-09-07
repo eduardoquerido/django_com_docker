@@ -1,4 +1,4 @@
-# django_com_docker
+# django com docker e docker-compose
 Aplicação rodando django a partir do docker
 
 Tutorial realizado e traduzido por Hudson Brendon com o artigo:
